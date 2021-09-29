@@ -1,4 +1,4 @@
-<p> Assalamualaikum, kami dari kelompok 2 akan membahas text editorial berjudul Warkopi </p>
+<p> Assalamualaikum, kami dari kelompok 2 akan membahas text editorial berjudul Warkopi </p><br>
 
 <p> Ketua Kelompok <p>
 <ul>
