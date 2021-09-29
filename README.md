@@ -1,2 +1,6 @@
-Tugas Web Bahasa Indonesia
-Kelompok
+<ul>
+    <li> Tugas Web Bahasa Indonesia </li>
+    <li> Kelompok </li>
+</ul>
+
+
