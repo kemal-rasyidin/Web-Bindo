@@ -3,7 +3,7 @@
 <p> Ketua Kelompok <p>
 <ul>
     <li> Amru Abdurrahman Azzam </li>
-<ul>
+</ul>
 
 <p> Anggota Kelompok <p>
 <ul>
